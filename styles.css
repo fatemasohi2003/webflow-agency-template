@@ -190,13 +190,13 @@ footer {
 }
 .logo {
   font-size: 100px;
-  color: #4f46e5; /* Indigo-600 */
+  color: #4f46e5; 
   margin-bottom: 20px;
 }
 
 .description {
   font-size: 16px;
-  color: #888; /* Light gray */
+  color: #888; 
   margin-bottom: 30px;
   line-height: 1.5;
 }
