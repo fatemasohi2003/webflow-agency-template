@@ -34,3 +34,19 @@ nav .logo {
 .btn:hover {
   background-color: #2563eb;
 }
+.hero {
+  text-align: center;
+  padding: 80px 10% 60px;
+  background-image: url('image/Hero-bg.png');
+  
+}
+
+.hero h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+ 
+}
+
+.hero .highlight {
+  color: #3b82f6;
+}
