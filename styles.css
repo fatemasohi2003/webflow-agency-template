@@ -10,7 +10,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 20px 10%;
-background-image: url('image/Hero-bg.png');
+background-image: url('Assets/image/Hero-bg.png');
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
@@ -37,7 +37,7 @@ nav .logo {
 .hero {
   text-align: center;
   padding: 80px 10% 60px;
-  background-image: url('image/Hero-bg.png');
+  background-image: url('Assets/image/Hero-bg.png');
   
 }
 
@@ -49,4 +49,22 @@ nav .logo {
 
 .hero .highlight {
   color: #3b82f6;
+}
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  padding: 60px 10%;
+  flex-wrap: wrap;
+  background-color: #edecf7;
+}
+.section-h2{
+
+padding: 5px;
+}
+.section img {
+  max-width: 300px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
