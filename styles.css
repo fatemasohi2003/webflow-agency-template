@@ -181,3 +181,40 @@ max-width:1200px;
   border-radius: 5px;
   font-size: 16px;
 }
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #f1f5f9;
+  margin-top: 40px;
+}
+.logo {
+  font-size: 100px;
+  color: #4f46e5; /* Indigo-600 */
+  margin-bottom: 20px;
+}
+
+.description {
+  font-size: 16px;
+  color: #888; /* Light gray */
+  margin-bottom: 30px;
+  line-height: 1.5;
+}
+
+
+.links {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.links a {
+  text-decoration: none;
+  color: #888;
+  font-size: 14px;
+  transition: color 0.3s ease;
+}
+
+.links a:hover {
+  color: #4f46e5;
+}
